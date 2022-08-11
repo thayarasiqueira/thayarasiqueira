@@ -5,4 +5,3 @@
 - 📫 How to reach me: thay.siqu@gmail.com or https://www.linkedin.com/in/thayara-siqueira/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I worked as a violinist before start programming!🎶
--->
