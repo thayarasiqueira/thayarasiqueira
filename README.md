@@ -1,4 +1,4 @@
-<span align="center" >### Hi there 🤓<span>
+### Hi there 🤓
 
 - 💻 I’m currently studying Full Stack Web Development at Trybe (https://www.betrybe.com/)
 - 🌱 Right now I'm learning Node.js, Typescript, and other back-end related subjects
