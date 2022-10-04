@@ -9,8 +9,6 @@
 Portfolio: https://thayarasiqueira.github.io/
 
 <div align="center">
-  <a href="https://github.com/thayarasiqueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayarasiqueira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
 <div>
