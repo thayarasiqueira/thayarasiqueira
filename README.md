@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I worked as a violinist before start programming!🎶
 
-<a href="https://thayarasiqueira.github.io" target="_blank"> -> Portfolio <-/<a/>
+Portfolio: https://thayarasiqueira.github.io
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayarasiqueira&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide=stars"/>
