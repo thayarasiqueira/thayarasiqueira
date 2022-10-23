@@ -9,7 +9,7 @@
 Portfolio: https://thayarasiqueira.github.io
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayarasiqueira&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide=stars"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayarasiqueira&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true"/>
 </div>
 <div align="center"><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayarasiqueira&layout=compact&theme=highcontrast"/>
