@@ -1,7 +1,7 @@
 ### Hi there 🤓
 
 - 💻 I’m currently studying Full Stack Web Development at Trybe (https://www.betrybe.com/)
-- 🌱 Right now I'm learning Node.js, MongoDB, and other back-end related subjects
+- 🌱 Right now I'm learning Python
 - 📫 How to reach me: thay.siqu@gmail.com or https://www.linkedin.com/in/thayara-siqueira/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I worked as a violinist before start programming!🎶
