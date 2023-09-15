@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I worked as a violinist before start programming!🎶
 
 
-      <h3>Main stacks<h3>
+      ####Main stacks
    <img align="center" alt="Icon-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="Icon-Expressjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
